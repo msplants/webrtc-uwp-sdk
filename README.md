@@ -1,7 +1,7 @@
 # Instructions
 
 From your terminal, recursively clone this repo to obtain all the source code needed to build WebRTC for UWP:
-git clone --recursive https://github.com/webrtc-uwp/webrtc-uwp-sdk.git
+git clone --recursive https://github.com/msplants/webrtc-uwp-sdk.git
 
 This repository will yield the WebRtc SDK and dependency libraries.
 
